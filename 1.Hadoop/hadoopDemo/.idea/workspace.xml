@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90b51e2b-bec9-4c0b-8136-2d3004a5bbf8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/sofware/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="$USER_HOME$/sofware/apache-maven-3.8.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2LDZT7j2z8251qdBnjFCKR6sqTp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.HdfsClient.testFile">
+    <configuration name="HdfsClient.fileDetail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoopDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hdfs" />
+      <option name="MAIN_CLASS_NAME" value="hdfs.HdfsClient" />
+      <option name="METHOD_NAME" value="fileDetail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsClient.testFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoopDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hdfs" />
+      <option name="MAIN_CLASS_NAME" value="hdfs.HdfsClient" />
+      <option name="METHOD_NAME" value="testFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsClient.testPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoopDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hdfs" />
+      <option name="MAIN_CLASS_NAME" value="hdfs.HdfsClient" />
+      <option name="METHOD_NAME" value="testPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsClient.testRm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoopDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hdfs" />
+      <option name="MAIN_CLASS_NAME" value="hdfs.HdfsClient" />
+      <option name="METHOD_NAME" value="testRm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsClient.testmv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hadoopDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hdfs" />
+      <option name="MAIN_CLASS_NAME" value="hdfs.HdfsClient" />
+      <option name="METHOD_NAME" value="testmv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HdfsClient.testFile" />
+        <item itemvalue="JUnit.HdfsClient.fileDetail" />
+        <item itemvalue="JUnit.HdfsClient.testmv" />
+        <item itemvalue="JUnit.HdfsClient.testPut" />
+        <item itemvalue="JUnit.HdfsClient.testRm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b51e2b-bec9-4c0b-8136-2d3004a5bbf8" name="Default Changelist" comment="" />
+      <created>1675407618904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675407618904</updated>
+      <workItem from="1675407619983" duration="3427000" />
+      <workItem from="1675605135838" duration="1374000" />
+      <workItem from="1675608377823" duration="5369000" />
+      <workItem from="1675671838180" duration="442000" />
+      <workItem from="1675672472683" duration="1914000" />
+      <workItem from="1677503939434" duration="1167000" />
+      <workItem from="1677565905899" duration="147000" />
+      <workItem from="1690890842068" duration="1329000" />
+      <workItem from="1691221587472" duration="1740000" />
+      <workItem from="1691373034998" duration="13081000" />
+      <workItem from="1691650583387" duration="6851000" />
+      <workItem from="1692079363796" duration="511000" />
+      <workItem from="1692079904938" duration="20000" />
+      <workItem from="1698994897931" duration="249000" />
+      <workItem from="1698995150678" duration="3689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hdfs/HdfsClient.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hdfs/HdfsClient.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
