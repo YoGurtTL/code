@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--命名空间绑定一个DAO接口-->
+<mapper namespace="com.tl.dao.UserMapper">
+    <select id="getUserList" resultType="User">
+        select * from User
+    </select>
+
+    <select id="getUserById" resultType="com.tl.pojo.User" parameterType="int">
+         select * from User where id=#{id};
+    </select>
+
+<!--    对象重的属性，可以直接取出来-->
+    <insert id="addUser" parameterType="com.tl.pojo.User">
+        insert into User(id,username,pwd) values(#{id},#{username},#{pwd}) ;
+    </insert>
+
+<!--    <insert id="addUser" parameterType="map">-->
+<!--        insert into User(id,username,pwd) values(#{userid},#{name},#{password}) ;-->
+<!--    </insert>-->
+    <select id="getUserByLimit" parameterType="map" resultType="com.tl.pojo.User">
+        select * f rom User limit #{startIndex},#{pageSize}
+    </select>
+    
+
+
+</mapper>
